@@ -58,6 +58,8 @@ Setting:
   * Something that can play from a set of pre-recorded sounds
   * 2 projectors
   * A screen/wall/sheet to project onto
+  * A mic for on the spot narration or a speaker for pre-recorded narration
+  * Lots of batteries (need separate batteries to power 2 servos, 2 Arduinos, 2 regular 5V DC motors, and 1 powerful motor (the one from the drill, which I think is 7.2 V).
   * If I do decide to/manage to figure out how to use computer vision and fiducials for making the robots move automously:
     * 2 small web cams
     * 2 Raspberry Pi’s
