@@ -28,13 +28,13 @@ Luīze Rieksta
 
 #### Moral/So What:
 * We want to show the value in helping others solve their problems and in working together as team.
-Setting:
-#### Projections:
+#### Setting:
+##### Projections:
   * Water on the ground to simulate waves (need a projector hanging from the ceiling)
   * Constellations on the wall to simulate a starry night sky (need a projector facing a wall, preferably projected from behind)
   * It would be nice if we could somehow replicate the setup that TPO used for the Farfalle show so that we can seamlessly create the sea, horizon, and starry night sky
   * Somehow project letters onto the wall to translate one letter at a time what the Navigator is saying to the audience (maybe somehow incorporate this translation using the stars to make the letters)
-#### Sounds:
+##### Sounds:
   * Wanderer’s communication through inexplicable sounds that somehow make sense to convey what its thinking
   * Sea-scape ambient sounds, including the sounds of waves and the wind when the two boat bots move in sync
   * Possibly have a pre-recorded narration of what’s happening, or have someone narrate with a mic during the show
