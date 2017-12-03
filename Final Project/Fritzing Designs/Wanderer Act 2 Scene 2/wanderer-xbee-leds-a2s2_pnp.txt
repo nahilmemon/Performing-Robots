@@ -1,0 +1,26 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=wanderer-xbee-leds-a2s2
+*Date=12:09:56
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;5 mm [THT];14.7084;-35.1036;-90;Bottom;LED4
+2;330;THT;28.6784;-31.6412;180;Bottom;R4
+3;;5 mm [THT];5.81843;-35.1036;-90;Bottom;LED3
+4;;THT;37.5684;-50.6912;90;Bottom;Digital Pins
+5;;THT;40.1084;-2.43119;90;Bottom;Analog Pins
+6;;THT;32.4884;-11.3212;90;Bottom;XBee Right
+7;;THT;32.4884;-26.5612;90;Bottom;XBee Left
+8;330;THT;23.5984;-39.2612;180;Bottom;R6
+9;330;THT;26.1384;-35.4512;180;Bottom;R5
+10;;THT;19.7884;-2.43119;90;Bottom;GND and Power
+11;;THT;13.1669;-50.6912;90;Bottom;More Digital Pins
