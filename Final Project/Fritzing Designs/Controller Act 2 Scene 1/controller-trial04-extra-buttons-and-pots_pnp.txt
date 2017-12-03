@@ -1,0 +1,46 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=controller-trial04-extra-buttons-and-pots
+*Date=13:35:10
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;28.176;-40.736;180;Bottom;NB5
+2;;THT;39.606;-40.736;180;Bottom;WB3
+3;10k;THT;2.77597;-24.226;90;Bottom;R1
+4;10k;THT;7.85597;-24.226;90;Bottom;R3
+5;;;36.8552;-22.1893;0;Bottom;TXT3
+6;;THT;51.036;-38.196;180;Bottom;NB1
+7;;THT;49.766;-34.386;90;Bottom;XBee Right
+8;;THT;49.766;-19.146;-90;Bottom;XBee Left
+9;;THT;52.306;-6.44597;90;Bottom;W: Joystick
+10;10k;THT;23.096;-24.226;90;Bottom;R9
+11;;THT;20.556;-15.336;-90;Bottom;GND
+12;;THT;58.656;-38.196;180;Bottom;WB1
+13;;THT;57.386;-6.44597;90;Bottom;N: Joystick
+14;10k;THT;12.936;-24.226;90;Bottom;R5
+15;;THT;63.736;-6.44597;0;Bottom;Pot2
+16;10k;THT;5.31597;-24.226;90;Bottom;R2
+17;;THT;31.986;-40.736;180;Bottom;NB4
+18;10k;THT;10.396;-24.226;90;Bottom;R4
+19;10k;THT;20.556;-24.226;90;Bottom;R8
+20;;;37.0357;-31.1111;0;Bottom;TXT3
+21;10k;THT;18.016;-24.226;90;Bottom;R7
+22;;THT;61.196;-6.44597;0;Bottom;Pot1
+23;;;34.4952;-26.766;0;Bottom;Arduino
+24;;THT;43.416;-40.736;180;Bottom;NB3
+25;;THT;47.226;-10.256;90;Bottom;5V
+26;;THT;35.796;-40.736;180;Bottom;WB4
+27;;THT;24.366;-40.736;0;Bottom;EB1
+28;;THT;47.226;-38.196;180;Bottom;NB2
+29;220;THT;25.636;-24.226;90;Bottom;R10
+30;;THT;54.846;-38.196;180;Bottom;WB2
+31;10k;THT;15.476;-24.226;90;Bottom;R6
